@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Music on the Rim</name>
+  <author>Bishop</author>
+  <url>https://github.com/BishopGit/music-rim</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <description>
+
+A selection of 106 songs with a play time of 5h57m, added to your RimWorld playlist.  The selection could be categorized as down-tempo/chill-out/ambient-electronica/folk. I spent about 20 hours searching for music, normalizing the audio, and building this mod. Have a listen for yourself, to see what I've curated.  I will continue to add more songs to this mod as they're discovered.  If anyone has any artists (with songs available under Creative Commons) to suggest, please let me know!
+    
+I am not the creator of any of the music used in this mod.  I am only the creator of this mod. All songs used in this mod are licensed under Creative Commons. Please see the license page for full details (link is on the mod homepage).
+    
+  </description>
+</ModMetaData>
