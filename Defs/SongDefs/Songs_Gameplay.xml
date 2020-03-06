@@ -366,6 +366,201 @@
 		<volume>0.92</volume>
 	</SongDef>
 
+	<SongDef>
+		<clipPath>AnyTime/Botanic_Garden</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Headway</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Maree</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Clover</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Chasing_Butterflies_into_the_Snow</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Bind_thy_wings</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/turtleneck_foxtrot</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Things_To_Come</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/The_Gold_Lining</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/XXV</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Juparo</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Melt</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Golden_Hour</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Twice</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Fail_Safe</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Follow_the_Course</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Heart_Left_On_the_Night_Train</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Sky_Watch</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Beautiful_Rain_stripped_down_remix</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Cell</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Moment_to_Moment</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/wave_wash</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Open_Door</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/I_Dare_You</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Golden</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Dining_on_Backs_of_the_Brave_Instrumental</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Ascending_obsolescence</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/origins</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Awake</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/The_Third</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Some_Time</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Pieces_of_the_Present</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/difference_in_a_day</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/work</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/How_it_Fades</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/I_Will_Wait_For_You</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/Barefoot</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/the_letter</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
+	<SongDef>
+		<clipPath>AnyTime/schmaltz</clipPath>
+		<volume>0.92</volume>
+	</SongDef>
+	
 <!-- Day -->	
 	<SongDef>
 		<clipPath>Day/vog_shady_grove</clipPath>
@@ -417,6 +612,48 @@
 
 	<SongDef>
 		<clipPath>Day/BoomBox</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/Greener_Grass</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/peace_flower</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/Summer_Spliffs</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/look_up</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/Kelp_Grooves</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/Simplify</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Day</allowedTimeOfDay>		
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Day/Forward_Motion</clipPath>
 		<volume>0.92</volume>
 		<allowedTimeOfDay>Day</allowedTimeOfDay>		
 	</SongDef>
@@ -531,6 +768,48 @@
 		<allowedTimeOfDay>Night</allowedTimeOfDay>
 	</SongDef>
 
+	<SongDef>
+		<clipPath>Night/Fryeri</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Night/Rooftop</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Night/The_Hours</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Night/catching_feathers_rmx</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Night/Pretend_and_walk_outside_Instrumental</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Night/Shimmer</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Night/Green_Fields</clipPath>
+		<volume>0.92</volume>
+		<allowedTimeOfDay>Night</allowedTimeOfDay>
+	</SongDef>
+
 <!-- Tense -->	
 	<SongDef>	
 		<clipPath>Tense/vog_mystic_force</clipPath>
@@ -606,6 +885,24 @@
 
 	<SongDef>
 		<clipPath>Tense/Moon_Love</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Tense/The_Edge_of_Nowhere</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Tense/Long_White_Cloud</clipPath>
+		<volume>0.92</volume>
+		<tense>true</tense>
+	</SongDef>
+
+	<SongDef>
+		<clipPath>Tense/Downfall</clipPath>
 		<volume>0.92</volume>
 		<tense>true</tense>
 	</SongDef>

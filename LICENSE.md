@@ -1,6 +1,6 @@
 # License
 
-I claim no rights over any of the resources used in this mod.  All credits to original creators. If you are the owner of any of the content in this mod and would like it removed, please contact me and I will oblige.
+I claim no rights over any of the resources used in this mod.  I did not create of these resources, nor am I endorsed by the creators. All credits to original creators. I am not accepting any financial compensation for the creation of this mod. If you are the owner of any of the content in this mod and would like it removed, please [contact me](mailto:BishopGit@pm.me) and I will oblige.
 
 ---
 Music by [Wolf Schweizer-Gerth](http://www.musikbrause.de):
@@ -158,6 +158,21 @@ Music by [Ketsa](https://freemusicarchive.org/music/Ketsa/):
 - Lighting the Night
 - Aimless
 - Falling Sky
+- Beautiful Rain (stripped down remix)
+- Moment to Moment
+- Cell
+- Wave Wash
+- Work
+- Fail Safe
+- Difference in a Day
+- Origins
+- Sky Watch
+- Follow the Course
+- Heart Left on the Night Train
+- Look Up
+- Peace Flower
+- Greener Grass
+- Catching Feathers (rmx)
 
 >Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)&nbsp;&nbsp;  [![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 ---
@@ -166,6 +181,10 @@ Music by [Scott Holmes](https://freemusicarchive.org/music/Scott_Holmes/):
 
 - Chasing Shadows
 - Wash Away
+- Awake
+- Shimmer
+- Green Fields
+- The Edge of Nowhere
 
 >Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)&nbsp;&nbsp;  [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 ---
@@ -175,10 +194,76 @@ Music by [Jahzzar](https://freemusicarchive.org/music/Jahzzar/):
 - Curves
 - Dew
 - Wound
+- Schmaltz
+- Botanic Garden
+- Twice
+- Barefoot
+- The Letter
+- Rooftop
 
->Licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)&nbsp;&nbsp;  [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+>Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)&nbsp;&nbsp;  [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 ---
 
+Music by [Broke for Free](https://freemusicarchive.org/music/Broke_For_Free):
+
+- Golden Hour
+- Melt
+- The Gold
+- Things to Come
+- Juparo
+- XXV
+- Summer Spliffs
+
+>Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)&nbsp;&nbsp;  [![CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+---
+
+Music by [Kai Engel](https://freemusicarchive.org/music/Kai_Engel):
+
+- Marée
+- Headway
+- Fryeri
+- Downfall
+
+>Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)&nbsp;&nbsp;  [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+---
+
+Music by [krackatoa](https://freemusicarchive.org/music/krackatoa)
+
+- Bind Thy Wings
+- Turtleneck Foxtrot
+- Ascending Obsolescence
+- Chasing Butterflies into the Snow
+- Dining on the Back of the Brave (instrumental)
+- Pretend and Walk Outside (instrumental)
+- Long White Cloud
+
+>Licensed under [CC BY-NC-SA 3.0 US](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)&nbsp;&nbsp;  [![CC BY-NC-SA 3.0 US](https://licensebuttons.net/l/by-nc-sa/3.0/us/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/3.0/us/)
+---
+
+Music by [Little Glass Men](https://freemusicarchive.org/music/Little_Glass_Men)
+
+- Golden
+- I Dare You
+- Clover
+- Open Door
+- Simplify
+- Kelp Grooves
+
+>Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)&nbsp;&nbsp;  [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+---
+
+Music by [Scott Gratton](https://freemusicarchive.org/music/Scott_Gratton)
+
+- I Will Wait For You
+- Pieces of the Present
+- Some Time
+- How It Fades
+- The Third
+- Forward Motion
+- The Hours
+
+>Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)&nbsp;&nbsp;  [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+---
 Image by [sjrankin](https://www.flickr.com/photos/24354425@N03):
 
 ["Artistic View from a TRAPPIST-1 Planet"](https://www.flickr.com/photos/24354425@N03/3308247070)
