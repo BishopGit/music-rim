@@ -1,6 +1,6 @@
 # License
 
-I claim no rights over any of the resources used in this mod.  I did not create of these resources, nor am I endorsed by the creators. All credits to original creators. I am not accepting any financial compensation for the creation of this mod. If you are the owner of any of the content in this mod and would like it removed, please [contact me](mailto:BishopGit@pm.me) and I will oblige.
+I claim no rights over any of the resources used in this mod.  I did not create any of these resources, nor am I endorsed by the creators. All credits to original creators. I am not accepting any financial compensation for the creation of this mod. If you are the owner of any of the content in this mod and would like it removed, please [contact me](mailto:BishopGit@pm.me) and I will oblige.
 
 ---
 Music by [Wolf Schweizer-Gerth](http://www.musikbrause.de):
