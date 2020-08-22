@@ -155,15 +155,6 @@
 	</SongDef>
 
 	<SongDef>
-		<clipPath>AnyTime/Broken_Hearted</clipPath>
-		<volume>0.92</volume>
-		<allowedSeasons>
-			<li>Winter</li>
-			<li>Spring</li>
-		</allowedSeasons>
-	</SongDef>
-
-	<SongDef>
 		<clipPath>AnyTime/Cant_Let_Her_Go</clipPath>
 		<volume>0.92</volume>
 	</SongDef>
